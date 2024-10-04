@@ -1,0 +1,7 @@
+name = "juliaapp"
+uuid = "972812a6-e0e0-42b5-9a65-58a861a7ce07"
+authors = ["Unknown "]
+version = "0.1.0"
+
+[deps]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
